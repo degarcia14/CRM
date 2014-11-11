@@ -1,0 +1,132 @@
+body{
+	background-color: White;
+	border:none;
+	max-height: auto;
+	max-width: auto; 
+    vertical-align: center;
+    /*text-align: center;*/
+}
+
+form{
+	padding: 5px;
+	text-align: center;
+}
+
+input{
+	margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+textarea{
+    height: 150px;
+    width: 350px;
+}
+
+h1{
+	text-align: center;
+	font-size: 30px;
+	font-family: Verdana;
+	color: MidNightBlue;
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana;
+    color: MidNightBlue;
+}
+
+h3{
+	text-align: center;
+	font-family: Verdana;
+    color: MidNightBlue;
+    font-size: 20px;
+}
+
+h4{
+	text-align: center;
+    font-size: 15px;
+	font-family: Verdana;
+    color: MidNightBlue;
+}
+
+h5{
+	text-align: center;
+	font-size: 10px;
+	font-family: Verdana;
+    color: MidNightBlue;
+}
+
+h6{
+	text-align: center;
+    font-size: 8px;
+	font-family: Verdana;
+    color: MidNightBlue;
+}
+
+#label{
+    color: MidNightBlue;
+    font-size: 15px;
+    margin-right: 20px;
+    text-align: center;
+    vertical-align: center;
+}
+
+#form{
+    border-width: 0.5px;
+}
+
+#header{
+    border-radius:5px;
+    background-color:LightGrey;
+    height:100px;
+    font-family: Verdana;
+  	margin: 5px 5px 5px 5px;
+    clear: left;
+    text-align: center;
+}
+
+#topnav{
+    position: fixed;
+    top: 30px;
+    right: 10px;
+    text-align: right;
+    color: #fff;
+    background: transparent;
+    border: 1px black;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    font-size: 10px;
+}
+
+/*#footer{
+    border: 1px solid #F5DEB3;
+    height:50px;
+    clear:both;
+    margin: 5px 5px 5px 5px;
+    font-family: Verdana;
+    color: white;
+}*/
+
+#nav{
+    font-size:0.75em;
+    width:160px;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#content{
+	float: left;
+	color: white;
+	display: inline-block;
+	text-align: center;
+	height: auto;
+	width: 1100px;
+	border: 0.5px solid white;
+	margin-right: 5px;
+	margin-bottom: 5px;
+    margin-left: 5px;
+}
+
